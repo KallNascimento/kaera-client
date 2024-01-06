@@ -1,0 +1,960 @@
+[ 2024-01-02 14:28:38,493 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-02 14:28:38,939 ] Using spritesheet cache size of 910
+[ 2024-01-02 14:28:42,465 ] Asset loading complete
+[ 2024-01-02 14:46:36,695 ] News query failed: "Unrecognized event news."
+[ 2024-01-02 14:46:39,051 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-02 14:46:39,051 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-02 14:46:39,051 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-02 14:46:39,051 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-02 14:46:39,051 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-02 14:46:39,221 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-02 14:46:39,226 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 14:46:39,251 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 14:46:40,659 ] News query failed: "Unrecognized event news."
+[ 2024-01-02 14:47:22,247 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-02 14:47:22,247 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-02 14:50:09,225 ] News query failed: "Unrecognized event news."
+[ 2024-01-02 15:03:57,142 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:03:57,272 ] Disconnected from gameserver
+[ 2024-01-02 15:03:57,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:04:01,912 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:04:04,148 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-02 15:04:04,153 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:04:04,165 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:04:05,124 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:05:53,501 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-02 15:05:53,501 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-02 15:07:26,594 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:07:26,655 ] Disconnected from gameserver
+[ 2024-01-02 15:07:26,709 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:07:27,571 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-02 15:07:27,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:07:27,586 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:07:28,504 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:07:52,644 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:11:50,639 ] Retrying to obtain clipboard.
+[ 2024-01-02 15:13:59,497 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:14:00,095 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:14:00,158 ] Disconnected from gameserver
+[ 2024-01-02 15:14:00,326 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-02 15:14:00,329 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:14:00,340 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:14:01,274 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:14:01,289 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:14:16,495 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:14:16,563 ] Disconnected from gameserver
+[ 2024-01-02 15:14:16,646 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:15:23,814 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:15:25,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-02 15:15:25,050 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:15:25,063 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:15:26,004 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:16:19,512 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-02 15:16:19,512 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-02 15:17:52,876 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:17:53,643 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:17:53,702 ] Disconnected from gameserver
+[ 2024-01-02 15:17:53,841 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-02 15:17:53,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:17:53,859 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:17:54,806 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:18:32,467 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-02 15:18:33,544 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-02 15:18:33,621 ] Disconnected from gameserver
+[ 2024-01-02 15:18:33,753 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-02 15:18:33,756 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:18:33,770 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Kaera"
+[ 2024-01-02 15:18:34,708 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-01-03 09:55:23,818 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 09:55:24,423 ] Using spritesheet cache size of 910
+[ 2024-01-03 09:55:29,630 ] Asset loading complete
+[ 2024-01-03 09:56:08,256 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 09:56:11,715 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 09:56:11,715 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 09:56:11,716 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 09:56:11,716 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 09:56:11,716 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 09:56:11,810 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Pirineu" )
+[ 2024-01-03 09:56:11,836 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 09:56:11,959 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 09:56:13,802 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 09:56:27,839 ] Retrying to obtain clipboard.
+[ 2024-01-03 09:56:49,444 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 09:56:49,502 ] Disconnected from gameserver
+[ 2024-01-03 09:56:50,217 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 09:57:00,747 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 09:57:05,572 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 09:57:05,576 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 09:57:05,697 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 09:57:06,556 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 09:57:28,547 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 09:57:28,598 ] Disconnected from gameserver
+[ 2024-01-03 09:57:28,643 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 09:58:01,886 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 09:58:02,176 ] Using spritesheet cache size of 910
+[ 2024-01-03 09:58:04,870 ] Asset loading complete
+[ 2024-01-03 09:58:05,356 ] Could not find Sound Effect ID 688
+[ 2024-01-03 09:58:12,183 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 10:12:42,380 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 10:12:42,696 ] Using spritesheet cache size of 910
+[ 2024-01-03 10:12:44,299 ] Asset loading complete
+[ 2024-01-03 10:12:53,989 ] Update failed. Please reinstall Tibia to update your client.
+[ 2024-01-03 10:13:14,816 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 10:13:16,029 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 10:13:16,029 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 10:13:16,030 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 10:13:16,030 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 10:13:16,030 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 10:13:16,104 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Pirineu" )
+[ 2024-01-03 10:13:16,107 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 10:13:16,217 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 10:13:17,632 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 10:13:21,138 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 10:13:21,188 ] Disconnected from gameserver
+[ 2024-01-03 10:13:21,815 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 10:13:28,492 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 10:13:29,793 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Pirineu" )
+[ 2024-01-03 10:13:29,797 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 10:13:29,897 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 10:13:30,757 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 10:13:31,838 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 10:13:31,893 ] Disconnected from gameserver
+[ 2024-01-03 10:13:31,934 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:21:14,706 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 11:21:15,087 ] Using spritesheet cache size of 910
+[ 2024-01-03 11:21:16,639 ] Asset loading complete
+[ 2024-01-03 11:21:30,603 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 11:21:32,678 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 11:21:32,678 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 11:21:32,678 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 11:21:32,678 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 11:21:32,678 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 11:21:32,784 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 11:21:32,796 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:21:32,920 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:21:33,998 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 11:21:53,504 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 11:21:55,178 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:21:55,237 ] Disconnected from gameserver
+[ 2024-01-03 11:21:55,606 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:21:55,612 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:21:55,727 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:21:56,574 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:23:17,127 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:23:17,194 ] Disconnected from gameserver
+[ 2024-01-03 11:23:21,665 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:23:23,187 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:23:23,191 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:23:23,477 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:23:24,133 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:23:24,729 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:23:24,736 ] Disconnected from gameserver
+[ 2024-01-03 11:23:26,216 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:23:45,309 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:23:45,313 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:23:46,270 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:24:00,506 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:24:13,348 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:24:14,180 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:24:14,242 ] Disconnected from gameserver
+[ 2024-01-03 11:24:14,361 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 11:24:14,364 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:24:14,470 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:24:15,318 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:25:41,419 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:25:43,927 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:25:43,984 ] Disconnected from gameserver
+[ 2024-01-03 11:25:44,144 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:25:44,151 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:25:44,426 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:25:45,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:25:53,390 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:25:54,477 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:25:54,532 ] Disconnected from gameserver
+[ 2024-01-03 11:25:54,677 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 11:25:54,680 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:25:54,799 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:25:55,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:26:20,432 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:26:21,377 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:26:21,434 ] Disconnected from gameserver
+[ 2024-01-03 11:26:21,605 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:26:21,611 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:26:21,722 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:26:22,554 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:26:26,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:26:27,778 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:26:27,831 ] Disconnected from gameserver
+[ 2024-01-03 11:26:27,960 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 11:26:27,966 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:26:28,086 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:26:28,914 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:27:31,528 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:27:32,328 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:27:32,380 ] Disconnected from gameserver
+[ 2024-01-03 11:27:32,519 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:27:32,528 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:27:32,710 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:27:33,475 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:27:38,939 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:27:40,028 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:27:40,087 ] Disconnected from gameserver
+[ 2024-01-03 11:27:40,202 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 11:27:40,202 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:27:40,322 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:27:41,174 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:28:42,634 ] Retrying to obtain clipboard.
+[ 2024-01-03 11:50:53,853 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435466 found"
+[ 2024-01-03 11:51:23,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231432 found"
+[ 2024-01-03 11:51:24,999 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231432 found"
+[ 2024-01-03 11:51:26,261 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257861 found"
+[ 2024-01-03 11:51:27,532 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257861 found"
+[ 2024-01-03 11:51:28,786 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257862 found"
+[ 2024-01-03 11:51:30,040 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342257862 found"
+[ 2024-01-03 11:54:14,304 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 11:54:15,492 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 11:54:15,586 ] Disconnected from gameserver
+[ 2024-01-03 11:54:15,770 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 11:54:15,776 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:54:15,895 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 11:54:16,727 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 14:10:12,795 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 14:10:13,485 ] Using spritesheet cache size of 910
+[ 2024-01-03 14:10:18,566 ] Asset loading complete
+[ 2024-01-03 14:10:25,394 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 14:10:27,313 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 14:10:27,314 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 14:10:27,314 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 14:10:27,314 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 14:10:27,314 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 14:10:27,417 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 14:10:27,424 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 14:10:27,554 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 14:10:28,823 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 14:10:33,331 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:10:33,383 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:11:47,680 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:11:47,722 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:12:04,656 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:12:04,661 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:12:29,222 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:12:29,294 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:16:19,075 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:18:20,805 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:19:10,566 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:19:10,588 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:19:46,366 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:19:46,386 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:20:30,393 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:20:30,436 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:23:41,764 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:23:55,458 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:24:58,512 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:24:58,528 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:27:09,281 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:31:50,825 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:31:50,825 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:36:03,517 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:36:03,555 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:37:46,800 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:39:01,010 ] Retrying to obtain clipboard.
+[ 2024-01-03 14:39:20,642 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 14:39:20,642 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:39:52,689 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 14:39:52,689 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 15:05:30,645 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 15:05:30,660 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 15:07:19,520 ] Retrying to obtain clipboard.
+[ 2024-01-03 15:07:20,834 ] Retrying to obtain clipboard.
+[ 2024-01-03 15:08:24,443 ] Retrying to obtain clipboard.
+[ 2024-01-03 15:24:28,148 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 15:24:28,160 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 15:32:26,472 ] Retrying to obtain clipboard.
+[ 2024-01-03 15:35:59,346 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-01-03 15:35:59,390 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://kaera.servegame.com:8090/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-01-03 16:45:18,338 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 16:45:19,035 ] Using spritesheet cache size of 910
+[ 2024-01-03 16:45:21,190 ] Asset loading complete
+[ 2024-01-03 16:45:33,823 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 16:45:35,208 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 16:45:35,208 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 16:45:35,208 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 16:45:35,208 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 16:45:35,208 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 16:45:35,315 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 16:45:35,338 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 16:45:35,458 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 16:45:36,717 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 16:58:32,082 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 16:58:32,323 ] Using spritesheet cache size of 910
+[ 2024-01-03 16:58:33,618 ] Asset loading complete
+[ 2024-01-03 16:58:39,403 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 16:58:40,948 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 16:58:40,948 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 16:58:40,948 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 16:58:40,948 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 16:58:40,948 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 16:58:41,060 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 16:58:41,070 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 16:58:41,195 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 16:58:42,431 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:00:05,625 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:00:05,693 ] Disconnected from gameserver
+[ 2024-01-03 17:00:06,846 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:00:07,839 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:00:07,840 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:00:07,967 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:00:08,771 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:03:20,065 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 17:03:20,266 ] Using spritesheet cache size of 910
+[ 2024-01-03 17:03:21,359 ] Asset loading complete
+[ 2024-01-03 17:03:26,973 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:03:28,718 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 17:03:28,718 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 17:03:28,718 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 17:03:28,718 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 17:03:28,718 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 17:03:28,816 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:03:28,827 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:03:28,943 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:03:30,158 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:07:47,212 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:07:47,279 ] Disconnected from gameserver
+[ 2024-01-03 17:11:33,225 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 17:11:33,463 ] Using spritesheet cache size of 910
+[ 2024-01-03 17:11:34,857 ] Asset loading complete
+[ 2024-01-03 17:14:37,406 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:15:03,532 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:15:24,335 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:15:33,513 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:17:23,449 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:17:35,362 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:17:53,954 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:19:26,091 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 17:19:26,322 ] Using spritesheet cache size of 910
+[ 2024-01-03 17:19:27,676 ] Asset loading complete
+[ 2024-01-03 17:19:37,248 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:19:41,869 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 17:19:41,869 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 17:19:41,869 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 17:19:41,869 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 17:19:41,869 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 17:19:41,955 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:19:41,963 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:19:42,087 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:19:43,337 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:20:51,259 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:20:54,622 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:21:11,550 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:21:20,712 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:21:37,952 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:21:49,801 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:21:56,652 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:22:04,390 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:22:26,655 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:23:16,292 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:23:24,220 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:23:36,348 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:23:46,550 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:24:18,378 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:24:18,439 ] Disconnected from gameserver
+[ 2024-01-03 17:24:19,556 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:24:20,606 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:24:20,622 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:24:20,739 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:24:21,545 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:24:31,318 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 17:24:31,508 ] Using spritesheet cache size of 910
+[ 2024-01-03 17:24:33,150 ] Asset loading complete
+[ 2024-01-03 17:24:33,581 ] Could not find Sound Effect ID 688
+[ 2024-01-03 17:24:37,758 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:24:39,388 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 17:24:39,388 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 17:24:39,388 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 17:24:39,388 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 17:24:39,388 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 17:24:39,473 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:24:39,484 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:24:39,591 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:24:40,785 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:27:30,669 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:27:47,491 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:27:54,983 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:28:04,279 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:28:53,446 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:29:16,457 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:29:27,064 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:29:33,868 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:29:58,301 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:30:14,021 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:32:03,489 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:32:39,202 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:33:05,157 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:33:16,317 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:33:16,408 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:33:19,428 ] Retrying to obtain clipboard.
+[ 2024-01-03 17:33:40,392 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:33:40,490 ] Disconnected from gameserver
+[ 2024-01-03 17:33:41,379 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:35:24,556 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-03 17:35:25,066 ] Using spritesheet cache size of 910
+[ 2024-01-03 17:35:29,546 ] Asset loading complete
+[ 2024-01-03 17:35:37,171 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:36:14,237 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:36:16,280 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-03 17:36:16,280 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-03 17:36:16,280 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-03 17:36:16,280 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-03 17:36:16,280 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-03 17:36:16,377 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:36:16,386 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:36:16,515 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:36:17,816 ] News query failed: "Unrecognized event news."
+[ 2024-01-03 17:42:38,784 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:42:40,530 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:42:40,638 ] Disconnected from gameserver
+[ 2024-01-03 17:42:41,068 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:42:41,074 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:42:41,240 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:42:41,998 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:42:48,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:42:50,730 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:42:50,798 ] Disconnected from gameserver
+[ 2024-01-03 17:42:50,945 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:42:50,950 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:42:51,090 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:42:51,901 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:42:59,466 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:43:01,283 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:43:01,356 ] Disconnected from gameserver
+[ 2024-01-03 17:43:01,513 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:43:01,517 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:43:01,638 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:43:02,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:43:36,774 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:43:37,781 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:43:37,838 ] Disconnected from gameserver
+[ 2024-01-03 17:43:38,033 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:43:38,040 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:43:38,159 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:43:38,973 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:44:38,974 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:44:39,979 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:44:40,034 ] Disconnected from gameserver
+[ 2024-01-03 17:44:40,178 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:44:40,179 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:44:40,314 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:44:41,118 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:46:50,424 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:46:52,329 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:46:52,403 ] Disconnected from gameserver
+[ 2024-01-03 17:46:52,606 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:46:52,614 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:46:52,876 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:46:53,542 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:47:00,861 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:47:01,991 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:47:02,085 ] Disconnected from gameserver
+[ 2024-01-03 17:47:02,253 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:47:02,259 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:47:02,382 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:47:03,209 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:47:49,854 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:47:51,030 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:47:51,088 ] Disconnected from gameserver
+[ 2024-01-03 17:47:51,231 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:47:51,235 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:47:51,364 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:47:52,175 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:48:48,843 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:48:50,481 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:48:50,552 ] Disconnected from gameserver
+[ 2024-01-03 17:48:50,730 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:48:50,735 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:48:50,911 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:48:51,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:49:18,696 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:49:19,830 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:49:19,898 ] Disconnected from gameserver
+[ 2024-01-03 17:49:20,091 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:49:20,096 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:49:20,196 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:49:21,030 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:50:32,332 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:50:33,281 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:50:33,360 ] Disconnected from gameserver
+[ 2024-01-03 17:50:33,523 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:50:33,527 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:50:33,802 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:50:34,475 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:50:51,491 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:50:52,880 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:50:52,947 ] Disconnected from gameserver
+[ 2024-01-03 17:50:53,131 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-03 17:50:53,137 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:50:53,247 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:50:54,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:51:23,691 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:51:24,680 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:51:24,745 ] Disconnected from gameserver
+[ 2024-01-03 17:51:24,955 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-03 17:51:24,963 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:51:25,079 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-03 17:51:25,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-03 17:51:53,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342258319 found"
+[ 2024-01-03 17:52:45,479 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-03 17:52:45,563 ] Disconnected from gameserver
+[ 2024-01-03 17:52:45,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 08:27:35,750 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-04 08:27:36,299 ] Using spritesheet cache size of 910
+[ 2024-01-04 08:27:41,738 ] Asset loading complete
+[ 2024-01-04 08:27:58,735 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 08:28:00,531 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-04 08:28:00,531 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-04 08:28:00,531 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-04 08:28:00,531 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-04 08:28:00,531 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-04 08:28:00,640 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 08:28:00,651 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 08:28:00,771 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 08:28:01,942 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 08:37:59,076 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 08:37:59,147 ] Disconnected from gameserver
+[ 2024-01-04 08:38:06,890 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 08:40:59,836 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 08:41:02,299 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 08:41:02,302 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 08:41:03,254 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 08:41:17,477 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 08:59:08,825 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 08:59:08,929 ] Disconnected from gameserver
+[ 2024-01-04 09:01:53,876 ] Retrying to obtain clipboard.
+[ 2024-01-04 10:11:13,167 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-04 10:11:13,675 ] Using spritesheet cache size of 910
+[ 2024-01-04 10:11:18,716 ] Asset loading complete
+[ 2024-01-04 10:11:25,205 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 10:11:26,541 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-04 10:11:26,541 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-04 10:11:26,541 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-04 10:11:26,541 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-04 10:11:26,541 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-04 10:11:26,649 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 10:11:26,653 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:11:26,813 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:11:27,919 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 10:36:24,401 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 10:36:24,401 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 10:36:24,477 ] Disconnected from gameserver
+[ 2024-01-04 10:36:24,923 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 10:36:24,930 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:36:25,081 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:36:25,851 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 10:39:22,478 ] Retrying to obtain clipboard.
+[ 2024-01-04 10:40:47,937 ] Retrying to obtain clipboard.
+[ 2024-01-04 10:55:59,855 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 10:56:00,903 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 10:56:00,976 ] Disconnected from gameserver
+[ 2024-01-04 10:56:01,171 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 10:56:01,179 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:56:01,317 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 10:56:02,113 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 10:57:18,286 ] Retrying to obtain clipboard.
+[ 2024-01-04 11:21:32,437 ] Retrying to obtain clipboard.
+[ 2024-01-04 13:03:53,660 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 13:03:53,825 ] Disconnected from gameserver
+[ 2024-01-04 14:06:25,236 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:06:31,079 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 14:06:31,086 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:06:31,250 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:06:32,013 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:15:00,659 ] Retrying to obtain clipboard.
+[ 2024-01-04 14:17:44,937 ] Retrying to obtain clipboard.
+[ 2024-01-04 14:29:40,352 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:29:41,151 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 14:29:41,222 ] Disconnected from gameserver
+[ 2024-01-04 14:29:41,460 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 14:29:41,468 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:29:41,590 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:29:42,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:33:18,433 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:33:19,356 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 14:33:19,418 ] Disconnected from gameserver
+[ 2024-01-04 14:33:19,608 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 14:33:19,615 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:33:19,798 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:33:20,565 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:38:47,623 ] Retrying to obtain clipboard.
+[ 2024-01-04 14:43:55,872 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:43:56,650 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 14:43:56,755 ] Disconnected from gameserver
+[ 2024-01-04 14:43:56,940 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 14:43:56,946 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:43:57,081 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:43:57,903 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:46:07,654 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:46:08,402 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 14:46:08,466 ] Disconnected from gameserver
+[ 2024-01-04 14:46:08,649 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 14:46:08,655 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:46:08,827 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:46:09,600 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:46:16,296 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:46:16,901 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 14:46:16,961 ] Disconnected from gameserver
+[ 2024-01-04 14:46:17,185 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 14:46:17,190 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:46:17,301 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 14:46:18,131 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 14:49:42,998 ] Retrying to obtain clipboard.
+[ 2024-01-04 14:51:52,174 ] Retrying to obtain clipboard.
+[ 2024-01-04 14:58:39,923 ] Retrying to obtain clipboard.
+[ 2024-01-04 15:27:50,351 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 15:27:50,485 ] Disconnected from gameserver
+[ 2024-01-04 15:27:50,664 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 16:40:34,443 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-04 16:40:35,196 ] Using spritesheet cache size of 910
+[ 2024-01-04 16:40:41,157 ] Asset loading complete
+[ 2024-01-04 16:42:00,187 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 16:42:01,294 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-04 16:42:01,294 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-04 16:42:01,294 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-04 16:42:01,294 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-04 16:42:01,294 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-04 16:42:01,385 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 16:42:01,394 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 16:42:01,541 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 16:42:02,822 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 16:45:19,766 ] Retrying to obtain clipboard.
+[ 2024-01-04 16:45:33,805 ] Retrying to obtain clipboard.
+[ 2024-01-04 16:57:48,424 ] Retrying to obtain clipboard.
+[ 2024-01-04 17:28:01,327 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:28:01,448 ] Disconnected from gameserver
+[ 2024-01-04 17:28:02,359 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 17:41:20,717 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-04 17:41:20,999 ] Using spritesheet cache size of 910
+[ 2024-01-04 17:41:22,317 ] Asset loading complete
+[ 2024-01-04 17:41:28,254 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 17:41:29,128 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-04 17:41:29,128 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-04 17:41:29,128 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-04 17:41:29,128 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-04 17:41:29,128 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-04 17:41:29,223 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 17:41:29,234 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:41:29,340 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:41:30,588 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 17:43:26,170 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:43:26,236 ] Disconnected from gameserver
+[ 2024-01-04 17:43:26,285 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 17:43:26,661 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 17:43:26,668 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:43:26,782 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:43:27,615 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:44:05,472 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:44:06,621 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:44:06,681 ] Disconnected from gameserver
+[ 2024-01-04 17:44:06,828 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 17:44:06,834 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:44:06,975 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:44:07,787 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:44:26,165 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:44:27,370 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:44:27,432 ] Disconnected from gameserver
+[ 2024-01-04 17:44:27,612 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 17:44:27,618 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:44:27,805 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:44:28,569 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:45:21,913 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:45:23,870 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:45:23,931 ] Disconnected from gameserver
+[ 2024-01-04 17:45:24,079 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 17:45:24,086 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:45:24,180 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:45:25,019 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:48:14,720 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:48:15,721 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:48:15,777 ] Disconnected from gameserver
+[ 2024-01-04 17:48:15,967 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 17:48:15,973 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:48:16,158 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:48:16,913 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:50:06,283 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:50:07,569 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:50:07,630 ] Disconnected from gameserver
+[ 2024-01-04 17:50:07,798 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 17:50:07,805 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:50:07,973 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:50:08,755 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:50:25,961 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:50:26,819 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:50:26,895 ] Disconnected from gameserver
+[ 2024-01-04 17:50:27,052 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 17:50:27,057 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:50:27,183 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 17:50:28,022 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 17:50:52,872 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 17:50:52,931 ] Disconnected from gameserver
+[ 2024-01-04 17:50:52,973 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 18:32:51,149 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-04 18:32:51,353 ] Using spritesheet cache size of 910
+[ 2024-01-04 18:32:52,940 ] Asset loading complete
+[ 2024-01-04 18:33:01,748 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 18:33:04,163 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-04 18:33:04,163 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-04 18:33:04,163 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-04 18:33:04,163 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-04 18:33:04,163 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-04 18:33:04,292 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 18:33:04,297 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 18:33:04,311 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 18:33:05,314 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 18:42:51,769 ] Retrying to obtain clipboard.
+[ 2024-01-04 18:43:04,296 ] Retrying to obtain clipboard.
+[ 2024-01-04 18:44:35,697 ] Retrying to obtain clipboard.
+[ 2024-01-04 18:44:39,204 ] Retrying to obtain clipboard.
+[ 2024-01-04 19:00:22,494 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 19:00:22,566 ] Disconnected from gameserver
+[ 2024-01-04 19:00:22,961 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 19:00:22,967 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:00:23,896 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:00:33,621 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:00:34,998 ] News query failed: "Unrecognized event news."
+[ 2024-01-04 19:00:47,757 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:00:48,695 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 19:00:48,745 ] Disconnected from gameserver
+[ 2024-01-04 19:00:48,880 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 19:00:48,886 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:00:48,891 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:00:49,848 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:01:09,306 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:01:10,045 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 19:01:10,114 ] Disconnected from gameserver
+[ 2024-01-04 19:01:10,252 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-04 19:01:10,256 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:01:10,260 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:01:11,209 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:01:18,284 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:01:18,893 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 19:01:18,957 ] Disconnected from gameserver
+[ 2024-01-04 19:01:19,086 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-04 19:01:19,089 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:01:19,092 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-04 19:01:20,035 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-04 19:22:43,495 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-04 19:22:43,553 ] Disconnected from gameserver
+[ 2024-01-04 19:22:43,608 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com:8090/login.php") ) due to too many retries.
+[ 2024-01-05 19:42:59,727 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-05 19:43:00,643 ] Using spritesheet cache size of 910
+[ 2024-01-05 19:43:07,639 ] Asset loading complete
+[ 2024-01-05 19:50:23,371 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-05 19:50:23,614 ] Using spritesheet cache size of 910
+[ 2024-01-05 19:50:25,790 ] Asset loading complete
+[ 2024-01-05 19:50:26,441 ] Could not find Sound Effect ID 688
+[ 2024-01-05 19:56:17,367 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-05 19:56:17,671 ] Using spritesheet cache size of 910
+[ 2024-01-05 19:56:20,581 ] Asset loading complete
+[ 2024-01-05 19:56:34,283 ] News query failed: "Unrecognized event news."
+[ 2024-01-05 19:56:44,300 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-05 19:56:44,300 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-01-05 19:56:44,300 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-01-05 19:56:44,300 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-05 19:56:44,300 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-05 19:56:44,426 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 19:56:44,430 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 19:56:44,454 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 19:56:45,919 ] News query failed: "Unrecognized event news."
+[ 2024-01-05 20:19:35,127 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:20:08,612 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:20:14,222 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:25:10,235 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:25:10,345 ] Disconnected from gameserver
+[ 2024-01-05 20:25:11,861 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:25:11,866 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:25:12,792 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:25:22,554 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:25:24,130 ] News query failed: "Unrecognized event news."
+[ 2024-01-05 20:25:46,631 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:25:47,534 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:25:47,627 ] Disconnected from gameserver
+[ 2024-01-05 20:25:47,846 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 20:25:47,853 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:25:47,860 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:25:48,762 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:27:21,793 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:27:23,090 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:27:23,187 ] Disconnected from gameserver
+[ 2024-01-05 20:27:23,395 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:27:23,403 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:27:24,341 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:27:35,569 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:27:55,794 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:27:56,535 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:27:56,619 ] Disconnected from gameserver
+[ 2024-01-05 20:27:56,827 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 20:27:56,834 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:27:56,839 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:27:57,788 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:28:11,294 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:28:12,135 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:28:12,218 ] Disconnected from gameserver
+[ 2024-01-05 20:28:12,463 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:28:12,478 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:28:12,483 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:28:13,391 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:30:39,236 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:30:39,325 ] Disconnected from gameserver
+[ 2024-01-05 20:30:39,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:30:41,057 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:30:41,061 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:30:41,950 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:30:53,404 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:33:46,488 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:33:48,186 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:33:48,267 ] Disconnected from gameserver
+[ 2024-01-05 20:33:48,496 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 20:33:48,504 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:33:49,402 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:34:00,808 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:34:59,635 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:35:00,993 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:35:15,324 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:39:02,884 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:39:03,886 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:39:03,964 ] Disconnected from gameserver
+[ 2024-01-05 20:39:04,195 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:39:04,202 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:39:05,105 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:39:16,319 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:43:18,337 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:43:18,419 ] Disconnected from gameserver
+[ 2024-01-05 20:43:18,496 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:43:19,163 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:43:19,168 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:43:20,090 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:43:31,486 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:46:01,036 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 20:46:01,155 ] Disconnected from gameserver
+[ 2024-01-05 20:46:39,396 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:46:41,523 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 20:46:41,530 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:46:42,484 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 20:46:53,712 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 20:47:31,224 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:48:25,062 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:49:48,504 ] Retrying to obtain clipboard.
+[ 2024-01-05 20:50:45,779 ] Retrying to obtain clipboard.
+[ 2024-01-05 21:05:55,335 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:05:55,398 ] Disconnected from gameserver
+[ 2024-01-05 21:06:36,965 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:06:58,667 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:06:58,671 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:06:58,674 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:06:59,625 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:07:08,937 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:07:09,002 ] Disconnected from gameserver
+[ 2024-01-05 21:07:38,191 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:07:38,779 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:07:38,783 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:07:39,730 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:07:51,103 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:13:04,299 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:13:05,685 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:13:05,776 ] Disconnected from gameserver
+[ 2024-01-05 21:13:05,942 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 21:13:05,943 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:13:06,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:13:18,125 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:13:38,335 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:13:38,387 ] Disconnected from gameserver
+[ 2024-01-05 21:13:38,430 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:13:39,650 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:13:39,654 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:13:39,658 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:13:40,608 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:13:48,885 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:13:48,953 ] Disconnected from gameserver
+[ 2024-01-05 21:14:19,251 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:14:20,627 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:14:20,631 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:14:21,578 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:14:32,822 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:17:17,031 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:17:18,085 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:17:18,165 ] Disconnected from gameserver
+[ 2024-01-05 21:17:18,324 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 21:17:18,328 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:17:19,264 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:17:30,334 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:19:03,510 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:19:04,934 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:19:04,992 ] Disconnected from gameserver
+[ 2024-01-05 21:19:05,139 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:19:05,143 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:19:06,091 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:19:17,458 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:19:36,859 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:19:37,985 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:19:38,038 ] Disconnected from gameserver
+[ 2024-01-05 21:19:38,186 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 21:19:38,191 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:19:38,195 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:19:39,180 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:22:30,159 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:22:31,185 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:22:31,238 ] Disconnected from gameserver
+[ 2024-01-05 21:22:31,385 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:22:31,394 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:22:32,324 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:22:43,543 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:22:55,485 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:22:55,540 ] Disconnected from gameserver
+[ 2024-01-05 21:22:55,588 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:22:56,651 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:22:56,655 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:22:56,660 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:22:57,591 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:23:15,117 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:23:15,735 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:23:15,791 ] Disconnected from gameserver
+[ 2024-01-05 21:23:15,922 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 21:23:15,926 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:23:15,932 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:23:16,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:41:53,783 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:41:54,935 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:41:54,993 ] Disconnected from gameserver
+[ 2024-01-05 21:41:55,162 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 21:41:55,166 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:41:56,124 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:42:07,339 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:42:42,319 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 21:42:44,235 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 21:42:44,289 ] Disconnected from gameserver
+[ 2024-01-05 21:42:44,425 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 21:42:44,427 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:42:44,433 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 21:42:45,370 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:05:37,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:05:39,534 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 22:05:39,593 ] Disconnected from gameserver
+[ 2024-01-05 22:05:39,755 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 22:05:39,759 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:05:40,717 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:05:51,910 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:05:56,535 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 22:05:56,593 ] Disconnected from gameserver
+[ 2024-01-05 22:05:56,641 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:05:57,656 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Naskall" )
+[ 2024-01-05 22:05:57,660 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:05:57,663 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:05:58,622 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:06:16,787 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:06:18,237 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 22:06:18,302 ] Disconnected from gameserver
+[ 2024-01-05 22:06:18,437 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172"  (unprotected:  "tcp://kaera.servegame.com:7172" )  requested (Charakter "Xiu Baka" )
+[ 2024-01-05 22:06:18,442 ] Request connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:06:18,446 ] Connected to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"
+[ 2024-01-05 22:06:19,371 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
+[ 2024-01-05 22:07:57,435 ] Connection to gameserver  "tcp://kaera.servegame.com:7172" "Kaera"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-05 22:07:57,489 ] Disconnected from gameserver
+[ 2024-01-05 22:07:57,533 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://kaera.servegame.com/login.php") ) due to too many retries.
